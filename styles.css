@@ -1,1 +1,25 @@
-/* Write your CSS here! */
+article {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    
+    background-color:rgb(90, 26, 26)
+}
+#mainHeading {
+    padding-top: 40px;
+    background-color:rgb(90, 26, 26)
+}
+.bg {
+    background-color:rgb(95, 32, 59)
+}
+body {
+    margin: 8px;
+    display: block
+}
+main {
+    padding-left: 70px;
+    padding-right: 70px;
+    color:rgb(147, 139, 139)
+}
+#funParagraph {
+    color:chartreuse
+}
